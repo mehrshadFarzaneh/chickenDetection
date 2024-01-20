@@ -1,0 +1,9 @@
+path: C:\Users\mrfarzaneh\Documents\GitHub\chickenDetection\data  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: chicken
+  1: container
+  2: ground
